@@ -29,7 +29,7 @@ IOS app that keeps track of player life in Magic the Gathering commander games (
 - allows players to play together even if not in the same room
 - able to personalize each player to distinguish players at a glance easily 
 
-###Top favorite apps/features:
+### Top favorite apps/features:
   
   Instagram
    - sharing posts with other users
