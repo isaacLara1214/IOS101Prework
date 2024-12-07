@@ -27,7 +27,7 @@ The following **required** functionality is completed:
 IOS app that keeps track of player life in Magic the Gathering commander games (trading card game)
 - able to share sessions so life totals update across all devices in the session
 - allows players to play together even if not in the same room
-- able to personalise each player to easily distinguish players at a glance 
+- able to personalize each player to distinguish players at a glance easily 
 
 ###Top favorite apps/features:
   
