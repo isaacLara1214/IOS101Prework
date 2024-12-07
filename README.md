@@ -2,9 +2,9 @@
 
 Submitted by: Isaac Lara
 
-IOS101Prework is an app that... [TODO] 
+IOS101Prework is an app that changes the app's background by pressing the button. 
 
-Time spent: 1 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -24,10 +24,18 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
-
+Top favorite apps/features:
+  Instagram
+   - sharing posts with other users
+   - personalize backgrounds of each group chat independently 
+  Snapchat
+   - sending posts that disappear after set ammount of time
+   - fun camera filters
+  Apple Music
+   - fullscreen album artwork when playing music
+   - dynamic song lyric screen that follows along with the song playing.
+ 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
