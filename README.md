@@ -25,12 +25,13 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 Top favorite apps/features:
+  
   Instagram
    - sharing posts with other users
    - personalize backgrounds of each group chat independently 
   
   Snapchat
-   - sending posts that disappear after set ammount of time
+   - sending posts that disappear after a set amount of time
    - fun camera filters
   
   Apple Music
