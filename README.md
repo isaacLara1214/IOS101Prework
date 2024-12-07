@@ -28,9 +28,11 @@ Top favorite apps/features:
   Instagram
    - sharing posts with other users
    - personalize backgrounds of each group chat independently 
+  
   Snapchat
    - sending posts that disappear after set ammount of time
    - fun camera filters
+  
   Apple Music
    - fullscreen album artwork when playing music
    - dynamic song lyric screen that follows along with the song playing.
